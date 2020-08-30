@@ -81,3 +81,16 @@ vscode:
   extensions:
     - faustinoaq.crystal-lang@0.4.0:I0h+4m6OeYiYhRWQPFRabA==
 ```
+
+To configure the plugin we need to add `.theia/settings.json` to our repo.
+
+```
+{
+  "crystal-lang.compiler": "/usr/bin/crystal",
+  "crystal-lang.problems": "build"
+}
+```
+
+You can check in the .gitpod workspace terminal for the crystal compiler with `which crystal`, just to make sure.
+
+See https://github.com/crystal-lang-tools/vscode-crystal-lang/wiki/Settings for more info about the extension settings.
