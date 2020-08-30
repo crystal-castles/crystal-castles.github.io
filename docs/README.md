@@ -95,6 +95,6 @@ To configure the plugin we need to add `.theia/settings.json` to our repo.
 }
 ```
 
-You can check in the .gitpod workspace terminal for the crystal compiler with `which crystal`, just to make sure.
+To check the location of the crystal compiler, do `which crystal`.
 
 See https://github.com/crystal-lang-tools/vscode-crystal-lang/wiki/Settings for more info about the extension settings.
