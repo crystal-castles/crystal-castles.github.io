@@ -1,2 +1,2 @@
-# crystal-castles.github.io
-Crystal Castles blog
+# Crystal Castles ...
+...a blog about the [Crystal Language](https://crystal-language.org)
