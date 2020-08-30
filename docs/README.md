@@ -1,10 +1,12 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/crystal-castles/crystal-castles.github.io)
 
 
-# Crystal Castles ...
+## Crystal Castles ...
 ...a blog about the [Crystal Language](https://crystal-language.org)
 
-## Crystal on GitPod
+
+
+# Crystal on GitPod
 
 [GitPod](https://gitpod.io) is a cloud based IDE.  Please go visit their site to find out more and try it out by clicking the "ready to code" button above.
 
