@@ -22,6 +22,8 @@ Like this `https://gitpod.io/#https://github.com/myname/myrepo`
 
 GitPod will boot up an IDE environment for you, which will allow you to edit the files in your project and give you a terminal shell to the environment too.
 
+![](images/git-pod-crystal-code.png)
+
 GitPod will offer to setup the environment for you, and ask you things like such as init/build commands and guess what language / framework you're using.
 
 For our Crystal project, gitpod doesn't know how to setup the environment yet.  However, it's pretty simple... so let's get into the nuts and bolts.
