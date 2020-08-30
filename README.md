@@ -1,2 +1,1 @@
-# Crystal Castles ...
-...a blog about the [Crystal Language](https://crystal-language.org)
+# Crystal Castles Blog
