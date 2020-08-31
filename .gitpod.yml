@@ -1,0 +1,3 @@
+tasks:
+  - init: jekyll
+    command: jekyll start
