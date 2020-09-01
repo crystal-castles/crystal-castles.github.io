@@ -5,8 +5,9 @@
 ...a blog about the [Crystal Language](https://crystal-language.org)
 
 
-
 # Crystal on GitPod
+
+> Heads up, if you want to just skip to the end, **[click this link to get a basic Crystal environment launched in GitPod.](https://gitpod.io/#https://github.com/crystal-castles/gitpod-crystal)**
 
 [GitPod](https://gitpod.io) is a cloud based IDE.  Please go visit their site to find out more and try it out by clicking the "ready to code" button above.
 
