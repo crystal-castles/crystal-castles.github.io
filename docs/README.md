@@ -56,7 +56,7 @@ FROM crystallang/crystal
 
 Add these into the repo and commit / push the change back to GitHub.
 
-If you just did that in GitPod itself, you shoud stop the workspace, (choose **workspace** > **stop workspace**) then delete then view Workspaces and delete the stopped workspace.  This is so you can start it up again without caching the workspace environment, and guarantee the Docker image is re-built from the new Crystal environment.
+If you just did that in GitPod itself, you shoud stop the workspace, (choose **workspace** > **stop workspace**) then view Workspaces and delete the stopped workspace.  This is so you can start it up again without caching the workspace environment, and guarantee the Docker image is re-built from the new Crystal environment.
 
 You can also update the `README.md` of your project to have a gitpod badge, which will launch the project straight into gitpod's IDE. 
 
